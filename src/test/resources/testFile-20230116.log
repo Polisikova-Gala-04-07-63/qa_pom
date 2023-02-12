@@ -1,0 +1,10 @@
+12:21:46 [main] info 112 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\galk\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+12:27:01 [main] info 112 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\galk\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+12:27:21 [main] loginPositiveTest 12 INFO  tests.TestBase - Starting login test
+12:27:24 [main] getContactWord 38 INFO  pages.PageBase - Language specified: English
+12:27:24 [main] getContactWord 38 INFO  pages.PageBase - Language specified: English
+12:27:24 [main] loginPositiveTest 22 INFO  tests.TestBase - Finished login test
